@@ -4,7 +4,7 @@
 
 
   - [The challenge](#the-challenge)
-  -  - [Link](#link)
+  - [Link](#link)
   - [Screenshot](#screenshot)
   - [My process](#my-process)
   - [Built with](#built-with)
@@ -22,7 +22,7 @@ Users should be able to:
 
 
 
--LINK
+- LINK
 
 [CLICK ME FOR LIVE VIEW](https://miron-silviu.github.io/Blog-page/)
 
