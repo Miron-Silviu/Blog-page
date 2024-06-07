@@ -1,9 +1,51 @@
 # Blog-page
 
-This blog page is about sweet potato and kale bowl food recipe .
+## Table of contents
 
-The page is fully responsive .
 
-# Deployment
+  - [The challenge](#the-challenge)
+  -  - [Link](#link)
+  - [Screenshot](#screenshot)
+  - [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
 
-This page is deployed and can be access <a href="https://miron-silviu.github.io/Blog-page/">here</a>.
+
+## The challenge
+
+Users should be able to:
+
+- View the optimal layout for the app depending on their device's screen size
+- See hover states for all interactive elements on the page
+- Select and submit a number rating
+- See the "Thank you" card state after submitting a rating
+
+
+
+-LINK
+[CLICK ME FOR LIVE VIEW](https://miron-silviu.github.io/Blog-page/)
+
+# Screenshot
+
+![Phone screenshot](image.png)
+
+
+## My process
+
+## Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- Mobile-first workflow
+
+
+## What I learned
+
+I learned how to use css classes and flex box . 
+
+## Author
+
+- Website - [Add your name here](https://www.your-site.com)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Twitter - [Silviu Miron](https://x.com/silviuumiron)
