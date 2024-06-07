@@ -27,7 +27,8 @@ Users should be able to:
 
 # Screenshot
 
-![Phone screenshot](image.png)
+![image](https://github.com/Miron-Silviu/Blog-page/assets/119732322/240611a7-f9a3-4b81-9c48-dfbfe15c9cee)
+
 
 
 ## My process
