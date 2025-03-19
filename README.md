@@ -3,13 +3,15 @@
 ## Table of contents
 
 
-  - [The challenge](#the-challenge)
   - [Link](#link)
+  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
 
+# Links
+[![DEPLOYMENT](https://github.com/Miron-Silviu/Guess-my-Number/blob/main/images/Frame%201.png)](https://miron-silviu.github.io/Blog-page/)
 
 ## The challenge
 
@@ -21,16 +23,8 @@ Users should be able to:
 - See the "Thank you" card state after submitting a rating
 
 
-
-- LINK
-
-[VIEW DEMO](https://miron-silviu.github.io/Blog-page/)
-
 # Screenshot
-
 ![image](https://github.com/Miron-Silviu/Blog-page/assets/119732322/240611a7-f9a3-4b81-9c48-dfbfe15c9cee)
-
-
 
 ## My process
 
